@@ -1,0 +1,3 @@
+pytest>=8.0
+# numpy is optional and not required; the tool uses only the standard library
+# plus pytest for tests.
